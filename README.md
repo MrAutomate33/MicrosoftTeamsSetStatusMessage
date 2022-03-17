@@ -4,8 +4,10 @@ Update your Microsoft Teams status message based on your location.
 ![](/MicrosoftTeamsStatusMessage.png)
 
 ## General
+Want to let your colleagues know that you are also at the office via Microsoft Teams and do this automatically?
+Let this Power Automate flow set you Microsoft Teams status message to "At the office" or something else you desire when you enter the geofence you have set.
 
-_Power Automate app form Microsoft is required._
+_[Power Automate app](https://emea.flow.microsoft.com/en-us/mobile/download/?src=banner) form Microsoft is required._
 
 ## Connections in use
 * SharePoint
