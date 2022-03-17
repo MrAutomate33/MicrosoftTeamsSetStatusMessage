@@ -1,6 +1,8 @@
 # Microsoft Teams - Set Status Message
 Update your Microsoft Teams status message based on your location.
 
+![](/MicrosoftTeamsStatusMessage.png)
+
 ## General
 
 _Power Automate app form Microsoft is required._
