@@ -22,7 +22,7 @@ _[Power Automate app](https://emea.flow.microsoft.com/en-us/mobile/download/?src
 
 ## Troubleshooting
 If the action called "Send_an_HTTP_request_to_SharePoint_-_Set_Teams_Message" fails with code 301, try one of the other site addresses. This may differ per tenant.
-Post a comment for more information if none of the other site addresses work for you.
+Post a issues if none of the other site addresses work for you.
 * https://noam.presence.teams.microsoft.com
 * https://noamdf.presence.teams.microsoft.com
 * https://presence.gcc.teams.microsoft.com
