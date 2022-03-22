@@ -18,7 +18,7 @@ _[Power Automate app](https://emea.flow.microsoft.com/en-us/mobile/download/?src
 3. Upload and import the MicrosoftTeamsSetStatusMessage.zip file. [Extra help for importing Power Automate projects](/../../../MrAutomate33/blob/main/files/CreateConnectionsInImport.md).
 4. Open the Power Automate flow and set your geofence trigger location.
 5. Set the desired expiry for your message in the `Convert time zone` action.
-6. Set the desired message in the SharePoint REST Api call action. Add `<pinnednote></pinnednote>` at the end of your message to show your message when people message you.
+6. Set the desired message in the `Send an HTTP request to SharePoint - Set Teams Message` action. Add `<pinnednote></pinnednote>` at the end of your message to show your message when people message you.
 7. Don't forget to turn on the Power automate flow.
 
 ## Troubleshooting
