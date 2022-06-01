@@ -28,3 +28,6 @@ Post a issues if none of the other site addresses work for you.
 * https://noamdf.presence.teams.microsoft.com
 * https://presence.gcc.teams.microsoft.com
 * https://presence.teams.microsoft.com
+
+## Disclaimer
+*This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.*
